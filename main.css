@@ -1,6 +1,6 @@
 @import url("https://fonts.google.com/specimen/Bai+Jamjuree");
 .body{
-    background-image: url(images/bg-header-desktop.png);
+    background-image: url(bg-header-desktop.png);
     width: 100vw;
     background-size: cover;
     font-family: 'Bai Jamjuree';
